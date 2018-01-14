@@ -55,4 +55,4 @@ for phone_number in unique_phone_numbers:
 
 # Total
 # Time = Time1 + Time2 + Time3 = N + 2*N + 1 + N*logN = N*logN
-# Mem = Mem1 + Mem2 + Mem3 + Mem4 = N + N + 2N + N + N = N
+# Mem = Mem1 + Mem2 + Mem3 + Mem4 = N + N + 2*N + 2*N = N
